@@ -1,0 +1,13 @@
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\AtesSoftware.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\UygulamaIndirici.Form1.resources
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\AtesSoftware.Properties.Resources.resources
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\AtesSoftware.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\AtesSoftware.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\UygulamaIndirici.exe.config
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\UygulamaIndirici.exe
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\UygulamaIndirici.pdb
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\bin\Debug\UygulamaIndirici.exe.config
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\bin\Debug\UygulamaIndirici.exe
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\bin\Debug\UygulamaIndirici.pdb
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\bin\Debug\Guna.UI2.dll
+C:\Users\mehme\source\repos\UygulamaIndirici\UygulamaIndirici\obj\Debug\AtesSoft.57C7D3CE.Up2Date
