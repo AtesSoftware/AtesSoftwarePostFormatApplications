@@ -52,4 +52,4 @@ Anyone who wants a precompiled, practical collection of essential software
 
 With this pack, you can bring a fresh Windows installation to full functionality in no time — no need to search and install each program separately.
 
-<img width="678" height="296" alt="Ekran Aaalıntısı" src="https://github.com/user-attachments/assets/6025de00-dbfa-453f-8984-e36517d55b43" />
+                <img width="678" height="296" alt="Ekran Aaalıntısı" src="https://github.com/user-attachments/assets/6025de00-dbfa-453f-8984-e36517d55b43" />
